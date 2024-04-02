@@ -28,8 +28,8 @@ A look into each and every task I attempted to solve, with my own code. I separa
 
 For each task, I started by
 
-1. Copying the expected output into a generic HTML VS Code
-2. Putting each element into their respective box (making educated guesses at first)
+1. Copying the expected output into a generic HTML VS Code index.html file
+2. Putting each element into their respective element (making educated guesses at first)
 3. Looking into the provided CSS stylesheet and reassessing (if necessary) my 'guesses' from step 2.
 4. Running a live-server to test out after completing step 3, rinse and repeat until my test output looks exactly like expected.
 5. Committing and pushing solution into the repository.
