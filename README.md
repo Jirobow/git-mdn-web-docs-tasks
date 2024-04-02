@@ -7,7 +7,6 @@ This is a solution to the [Test your skills: HTML text basics](https://developer
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,8 +15,6 @@ This is a solution to the [Test your skills: HTML text basics](https://developer
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
