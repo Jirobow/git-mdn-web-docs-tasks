@@ -1,6 +1,6 @@
 # git-mdn-web-docs-tasks
 
-# Learning - Introduction to HTML - Tasks solutions - Task 1 (HTML text basics)
+# Learning - Introduction to HTML - Tasks solutions
 
 This is a solution to the [Test your skills: HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics).
 
@@ -21,19 +21,7 @@ This is a solution to the [Test your skills: HTML text basics](https://developer
 
 ## Overview
 
-A look into each and every task I attempted to solve, with my own code.
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+A look into each and every task I attempted to solve, with my own code. I separated each solution into a different folder for convinience.
 
 ### Links
 
@@ -41,57 +29,35 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+For each task, I started by
+
+1. Copying the expected output into a generic HTML VS Code
+2. Putting each element into their respective box (making educated guesses at first)
+3. Looking into the provided CSS stylesheet and reassessing (if necessary) my 'guesses' from step 2.
+4. Running a live-server to test out after completing step 3, rinse and repeat until my test output looks exactly like expected.
+5. Committing and pushing solution into the repository.
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- VS Code (enhanced with Prettier and Path Intellisense extensions)
+- Nodejs (v18.17.1) + live-server node app.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Recaped HTML fundamentals and CSS's basics, mostly gaining confidence.
 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+My main goal here is to have all of this be second nature moving forward, gaining familiarity with not only HTML, but CSS and even git too, focusing on my future carrer as a fullstack dev.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I'm not comfartable with designing from scratch (an empty styles.css file, for example) yet, but by repeating these and other tasks/challenges this could and will be accomplished.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE) - Gave me a solid understanding and much more confidence with Git.
+- [ChatGPT](https://chat.openai.com) - Helped me catch some syntax errors (using .h1 in the stylesheet instead of just h1, for example).
 
 ## Author
 
