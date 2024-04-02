@@ -21,6 +21,8 @@ This is a solution to the [Test your skills: HTML text basics](https://developer
 
 ## Overview
 
+A look into each and every task I attempted to solve, with my own code.
+
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -35,8 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Github repository with my solutions](https://github.com/Jirobow/git-mdn-web-docs-tasks)
 
 ## My process
 
