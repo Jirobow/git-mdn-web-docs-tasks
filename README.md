@@ -55,6 +55,7 @@ I'm not comfartable with designing from scratch (an empty styles.css file, for e
 
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE) - Gave me a solid understanding and much more confidence with Git.
 - [ChatGPT](https://chat.openai.com) - Helped me catch some syntax errors (using .h1 in the stylesheet instead of just h1, for example).
+- [Frontend Mentor](https://www.frontendmentor.io/) - Provided an easy-to-understand step-by-step path to learning front-end dev, plus this README template.
 
 ## Author
 
