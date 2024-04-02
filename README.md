@@ -60,7 +60,7 @@ I'm not comfartable with designing from scratch (an empty styles.css file, for e
 
 - [Hugo Victor](https://www.linkedin.com/in/hugo-v-silva/)
 - Frontend Mentor - [@jirobow](https://www.frontendmentor.io/profile/Jirobow)
-- Twitter - @Jirodev(https://twitter.com/JirobowDev)
+- Twitter - [@Jirodev](https://twitter.com/JirobowDev)
 
 ## Acknowledgments
 
